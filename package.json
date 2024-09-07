@@ -2,7 +2,7 @@
   "name": "angle-selector",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nimnadmihiranga.github.io/angle-selector-reac",
+  "homepage": "https://nimnadmihiranga.github.io/angle-selector-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
